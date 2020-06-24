@@ -1,5 +1,0 @@
-function() {
-  e("body,html").animate({
-    scrollTop: 0
-  }, 700)
-}
